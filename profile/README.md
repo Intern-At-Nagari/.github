@@ -10,14 +10,21 @@ Welcome to the official GitHub organization for KP Bank Nagari Kantor Pusat 2025
 We are Nabil Rizki Navisa (2211522018) and Naufal (2211522020), students of Andalas University undertaking our Kerja Praktek (KP) at Bank Nagari Kantor Pusat. Our internship spans 30 workdays, during which we contribute to projects aimed at improving the digital infrastructure and services of Bank Nagari.
 
 ## 📁 Repository Structure
-Our organization comprises repositories dedicated to our main project:
-- **bank-nagari-internship-registration**: A web-based internship registration system for Bank Nagari
-  - Frontend: React with Vite
-  - Backend: Express.js
-  - Database: PostgreSQL
+Our organization comprises the following repositories:
+
+- **nagariintern-admin**: Administration panel for the internship registration system
+- **nagariintern-api**: Backend API services for the internship registration system
+- **nagariintern-client**: Client-facing frontend for the internship registration system
+  - Public
+  - JavaScript
+
+All three repositories work together to create our complete internship registration system with:
+- Frontend: React with Vite
+- Backend: Express.js
+- Database: PostgreSQL
 
 ## 🛠️ Technologies
-
+We utilize a modern tech stack for our project, including:
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,vite,postgresql,tailwind)](https://skillicons.dev)
 
 ## 📄 Documentation
