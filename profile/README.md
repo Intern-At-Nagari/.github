@@ -17,7 +17,7 @@ Our organization comprises repositories dedicated to our main project:
   - Database: PostgreSQL
 
 ## 🛠️ Technologies
-We utilize a modern tech stack for our project, including:
+
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,vite,postgresql,tailwind)](https://skillicons.dev)
 
 ## 📄 Documentation
