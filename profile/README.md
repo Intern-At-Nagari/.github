@@ -15,8 +15,6 @@ Our organization comprises the following repositories:
 - **nagariintern-admin**: Administration panel for the internship registration system
 - **nagariintern-api**: Backend API services for the internship registration system
 - **nagariintern-client**: Client-facing frontend for the internship registration system
-  - Public
-  - JavaScript
 
 All three repositories work together to create our complete internship registration system with:
 - Frontend: React with Vite
@@ -24,7 +22,6 @@ All three repositories work together to create our complete internship registrat
 - Database: PostgreSQL
 
 ## 🛠️ Technologies
-We utilize a modern tech stack for our project, including:
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,vite,postgresql,tailwind)](https://skillicons.dev)
 
 ## 📄 Documentation
