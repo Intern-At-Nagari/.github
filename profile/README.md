@@ -39,7 +39,7 @@ For any questions or support, please contact us:
 - **Bank Nagari Kantor Pusat**:
   - 🌐 [banknagari.co.id](https://www.banknagari.co.id)
   - 📧 [callcenter@banknagari.co.id](mailto:callcenter@banknagari.co.id)
-  - ☎️ [14018](tel:14018)
+  - ☎️ [150234](tel:150234)
   - 📍 Address: 299V+2QV, Pagambiran Ampalu Nan XX, Lubuk Begalung, Padang City, West Sumatra
 
 ## 🙏 Acknowledgements
