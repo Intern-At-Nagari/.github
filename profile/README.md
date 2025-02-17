@@ -18,7 +18,6 @@ Our organization comprises repositories dedicated to our main project:
 
 ## 🛠️ Technologies
 We utilize a modern tech stack for our project, including:
-
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,vite,postgresql,tailwind)](https://skillicons.dev)
 
 ## 📄 Documentation
@@ -30,7 +29,9 @@ The repository contains detailed documentation on its usage, API endpoints, and 
 
 ## 📞 Contact & Support
 For any questions or support, please contact us:
-- **Email**: [nabilrizkinavisa@gmail.com](mailto:nabilrizkinavisa@gmail.com)
+- **Email**: 
+  - [nabilrizkinavisa@gmail.com](mailto:nabilrizkinavisa@gmail.com)
+  - [noppal.901@gmail.com](mailto:noppal.901@gmail.com)
 - **Bank Nagari Kantor Pusat**:
   - 🌐 [banknagari.co.id](https://www.banknagari.co.id)
   - 📧 [callcenter@banknagari.co.id](mailto:callcenter@banknagari.co.id)
@@ -44,7 +45,6 @@ We would like to thank:
 - All contributors and stakeholders involved in this project
 
 ---
-
 <div align="center">
 <strong>© 2025 Bank Nagari. All Rights Reserved.</strong>
 </div>
