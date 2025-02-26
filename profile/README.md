@@ -22,7 +22,7 @@ All three repositories work together to create our complete internship registrat
 - Database: PostgreSQL
 
 ## 🛠️ Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,vite,postgresql,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,vite,postgresql,tailwind, vue)](https://skillicons.dev)
 
 ## 📄 Documentation
 The repository contains detailed documentation on its usage, API endpoints, and other relevant information. Refer to the README.md file in the repository for more details.
